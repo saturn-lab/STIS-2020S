@@ -27,6 +27,6 @@ TensorFlow
 * [Professor Boaz Barak](https://www.boazbarak.org/),  [Harvard Univ. CS-121](https://cs121.boazbarak.org/): [theorital of computer science](computation.md) 
   
   
-* [CS 154: Introduction to Automata and Complexity Theory](https://omereingold.wordpress.com/cs-154-introduction-to-automata-and-complexity-theory/)
+* [Professor Omer Reingold](https://engineering.stanford.edu/people/omer-reingold), [CS 154: Introduction to Automata and Complexity Theory](https://omereingold.wordpress.com/cs-154-introduction-to-automata-and-complexity-theory/)
 
 
