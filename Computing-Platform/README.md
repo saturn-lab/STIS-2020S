@@ -16,4 +16,4 @@ TensorFlow
 
 # References
 
-[theorital of computer science](computation.md) 
+* [theorital of computer science](computation.md) 
