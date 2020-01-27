@@ -1,13 +1,19 @@
-# Smart Things
-Ardunio
+# Principle of Computation
 
+# Language of Computation
 
+# Hardware of Computation (Smart Things)
 
-Raspberry Pi
+types: CPU / GPU / TPU / FPGA 
 
+instances: Ardunio / Raspberry Pi / Jetson Nano
 
+# Artificial intelligence based on computation
 
-Jetson Nano
+Deep learning
 
+TensorFlow 
 
+# References
 
+[theorital of computer science](computation.md) 
