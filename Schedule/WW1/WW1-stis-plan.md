@@ -14,6 +14,7 @@ Bring Your Laptop to Class.
 |   5       | 个人自我介绍markdown ``Assigned-Number.md`` /更新 ``STIS名单.md``     |  实践    |    CZ&TAs     |        |
 |   6       | Python编程语言     |  讲课    |    CZ    |        |
 |   7       | Python软件安装/Jupyter Notebook安装/设置     |  实践    |    CZ&TAs    |   推荐用官网安装python     |
+|   8       | 学习小结.md 上交至[Study-Memo](../../Study-Memo)    |  实践    |     CZ&TAs     |   最迟至2月25日下午1点      |
 
 
 
