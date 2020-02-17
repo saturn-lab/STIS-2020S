@@ -18,8 +18,8 @@ Bring Your Laptop to Class.
 
 
 
-# Fibonacci Numbers
+大家注意：勿上传``有版权``的课程参考资料。
 
-# Faster Fibonacci Numbers
+
 
 
