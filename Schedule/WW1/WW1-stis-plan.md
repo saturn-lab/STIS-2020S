@@ -16,9 +16,10 @@ Bring Your Laptop to Class.
 |   7       | 安装Markdown编辑器typora  |  实践    |    CZ&TAs     |    |
 |   8       | 个人自我介绍markdown      |  实践    |    CZ&TAs     |    ``Assigned-Number.md`` |
 |   9       | 更新 ``STIS名单.md``     |  实践    |    CZ&TAs     |        |
-|   10      | Python编程语言     |  讲课    |    CZ    |        |
+|   10      | Python编程语言     |  讲课    |    CZ    |  实践       |   |
 |   11      | Python软件安装/Jupyter Notebook安装/设置     |  实践    |    CZ&TAs    |   推荐用官网安装python     |
-|   12      | 学习小结.md 上交至[Study-Memo](../../Study-Memo)   |  实践    |     CZ&TAs     |   最迟至2月25日下午1点      |
+|   12      | [learn-python3](https://github.com/saturn-lab/Learn-Python3) | 实践       |  CZ&TAs|  |
+|   13      | 学习小结.md 上交至[Study-Memo](../../Study-Memo)   |  实践    |     CZ&TAs     |   最迟至2月25日下午1点      |
 
 
 
