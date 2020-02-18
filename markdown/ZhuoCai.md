@@ -8,8 +8,4 @@
 
  **personal home page**: _None_
 
- $$aa$$
-
-$a$
-
-$$\frac{1}{2}$$
+ $$\sum\log \le \log\sum$$
