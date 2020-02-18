@@ -8,4 +8,8 @@
 
  **personal home page**: _None_
 
- $\int_{0}^n \frac{1}{x}$
+ $$aa$$
+
+$a$
+
+$$\frac{1}{2}$$
