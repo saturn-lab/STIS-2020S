@@ -15,8 +15,13 @@ Windows端安装教程见：https://www.jianshu.com/p/ba0bb56b61bb，注意务�
 安装完毕后，可打开终端（Windows推荐使用powershell，MacOS及*nix使用自带Terminal即可），输入`python --version`进行验证，如显示版本正确则安装成功。
 
 ## jupyter安装
-使用pip进行安装，打开终端，输入 pip install jupyter
+使用pip进行安装，打开终端，输入 `pip install jupyter`
+
 jupyter安装以及使用推荐文章：https://www.jianshu.com/p/d7e630ec4a50
+### jupyter主题更换
+默认的主题有点丑，可以用jupyterthemes更换主题、字体、占比等等
+
+推荐文章：https://zhuanlan.zhihu.com/p/108387364
 
 ## Markdown编辑器
 推荐使用Typora：https://typora.io
