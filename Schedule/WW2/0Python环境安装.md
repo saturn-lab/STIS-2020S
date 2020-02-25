@@ -1,10 +1,11 @@
 # Python环境安装
 
-## Jupyter
-
 使用python-64位3.7.5，勾选环境变量。
 
 <img src="python-add-EV.jpg" alt="Python-install" style="zoom:60%;" />
+
+## Jupyter
+
 
 ```pip install jupyter notebook```
 
