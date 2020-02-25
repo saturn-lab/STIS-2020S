@@ -2,7 +2,7 @@
 
 Theory of computing 
 
-theoreitical computer science 
+theoretical computer science 
 
 # Language of Computation
 
