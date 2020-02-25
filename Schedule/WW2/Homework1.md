@@ -1,19 +1,19 @@
 
 # 猫的描述
 
-cat： 
+## cat： 
 
 - head body tail
 - head: mouth, ear, eye
 - body: wheel
 
-act：
+## act：
 - wave head， 
 - wave ear，
 - wave tail， 
 - eye motion， 
 
-combo act： 
+## combo act： 
 - dance， 
 - welcome， 
 - show love.
