@@ -3,15 +3,20 @@
 
 cat： 
 
-head body tail
+- head body tail
+- head: mouth, ear, eye
+- body: wheel
 
-head: mouth, ear, eye
+act：
+- wave head， 
+- wave ear，
+- wave tail， 
+- eye motion， 
 
-body: wheel
-
-act：wave head， wave ear，wave tail， eye motion， 
-
-comine： dance， welcome， show love.
+combo act： 
+- dance， 
+- welcome， 
+- show love.
 
 # modelling cute cat 's dance 
 
