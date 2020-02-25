@@ -4,9 +4,9 @@
 
 使用python-64位3.7.5，勾选环境变量。
 
-```pip install jupyter notebook```
+<img src="python-add-EV.jpg" alt="Python-install" style="zoom:60%;" />
 
-<img src="E:/Database-basics/0计算基础/Python-install-375.png" alt="Python-install" style="zoom:60%;" />/
+```pip install jupyter notebook```
 
 ### 安装Anaconda
 
