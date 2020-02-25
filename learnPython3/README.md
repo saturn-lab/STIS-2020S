@@ -1,6 +1,6 @@
 # Learn Python3 
 
-Python3 code sampels credits: https://github.com/jerry-git/learn-python3 
+Python3 code samples credits: https://github.com/jerry-git/learn-python3 
 
 ## 编辑开发环境
 
