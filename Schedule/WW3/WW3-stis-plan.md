@@ -10,8 +10,8 @@ Bring Your Laptop to Class.
 |   1      |  回顾上节课，介绍本节课内容 |    讲课     |   CZ   |      |
 |   2      | [Python3-basic](python3-basic.md) |  讲课    |    CZ    |  实践       |
 |   3      | [learn-python3](https://github.com/saturn-lab/Learn-Python3) |  实践    |    CZ&TAs    |   推荐用官网安装python     |
-|   4      |  计算基础 (lambda caculus) |  讲课    |    CZ    |          |
-|   5      |  [lambda演算实践](../../Computing/lambda_caculus.ipynb) |  实践    |    LHT    |          |
+|   4      |  计算基础 (lambda calculus) |  讲课    |    CZ    |          |
+|   5      |  [lambda演算实践](../../Computing/lambda_calculus.ipynb) |  实践    |    LHT    |          |
 |   6      |  Haskell程序介绍 | 讲课       |  GM|  |   |
 |   7      |  Haskell使用 | 实践       |  GM|  |   |
 |   8      | 学习小结.md 上交至[Study-Memo](../../Study-Memo)   |  实践    |     CZ&TAs     |   一周之后     |
