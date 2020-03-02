@@ -13,7 +13,7 @@ Bring Your Laptop to Class.
 |   4      |  计算基础 (lambda caculus) |  讲课    |    CZ    |          |
 |   5      |  lambda演算实践 (lambda_caculus.ipynb) |  实践    |    LHT    |          |
 |   6      |  Haskell程序介绍 | 讲课       |  GM|  |   |
-|   7      |  Haskell程序介绍 | 实践       |  GM|  |   |
+|   7      |  Haskell使用 | 实践       |  GM|  |   |
 |   8      | 学习小结.md 上交至[Study-Memo](../../Study-Memo)   |  实践    |     CZ&TAs     |   一周之后     |
 
 
