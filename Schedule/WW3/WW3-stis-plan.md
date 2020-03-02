@@ -15,7 +15,7 @@ Bring Your Laptop to Class.
 |   6      |  Haskell程序介绍 | 讲课       |  GM|  |   |
 |   7      |  Haskell使用 | 实践       |  GM|  |   |
 |   8      | 学习小结.md 上交至[Study-Memo](../../Study-Memo)   |  实践    |     CZ&TAs     |   一周之后     |
-
+|   9      | 课程小结，展望下一节课   |   讲课    |     CZ&TAs     |       |
 
 
 
