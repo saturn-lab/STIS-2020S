@@ -1,6 +1,18 @@
 # Principle of Computation
 
+Theory of computing 
+
+theoretical computer science 
+
 # Language of Computation
+
+procedureal programming
+
+C/C++
+
+functional programming
+
+haskell
 
 # Hardware of Computation (Smart Things)
 
