@@ -56,22 +56,25 @@
 **Haskell实践练习**：
 
 **代码1：**
-
+```Haskell
 isA :: Char->Bool
 isA 'a' = True
 isA x = False
+```
+
 
 **代码2：**
-
+```Haskell
 isHello :: String->Bool
 isHello "hello" = True
 isHello x = False
+```
 
 **代码3:**
-
+```Haskell
 removeSpace :: String->String
 removeSpace oldString = [new | new <- oldString, new /= ' ']
-
+```
 ***
 
 **总结：**
