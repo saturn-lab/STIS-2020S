@@ -7,7 +7,7 @@ Bring Your Laptop to Class.
 | 时间段    |  内容     |  讲课 / 实践     |   分工  |   备注       |
 | :---     | :----:    |   :----:    |    :----:    |       ---: |
 |   0      |  课程签到     |  logistics   |     TA     |        |
-|   1      |  [回顾上节课](../WW4/WW4-plan.md)，介绍本节课内容 |    讲课     |   CZ   |      |
+|   1      |  [回顾上节课](../WW3/WW3-plan.md)，介绍本节课内容 |    讲课     |   CZ   |      |
 |   2      |  计算基础2 布尔电路 |  讲课    |    WX    | 
 |   3      |  布尔电路实践1：mutlisim 实践   |  实践    |    WX/ZYS    |  (需要安装multisim，可在学校资源下载)      |
 |   4      |  布尔电路实践2：graphz, SchemDraw实践()|  实践    |    LHT    |        |
