@@ -7,7 +7,7 @@ Bring Your Laptop to Class.
 |   0      | 课程签到     |  logistics   |     TA     |        |
 |   1      |  [回顾上节课](../WW4/WW4-stis-plan.md)，介绍本节课内容 |    讲课     |   CZ   |      |
 |   2      | 智能计算：人工神经元 |  讲课    |    CZ    |         |
-|   3      | 激活函数：numpy实现activation function |  讲课，实践    |    CZ/    |         |
+|   3      | 激活函数：numpy实现activation function |  讲课，实践    |    CZ/GM    |         |
 |   4      | 智能计算：计算布尔电路 |  讲课  |    CZ    |  实践       |
 |   5      | 人工神经元计算布尔电路 | 讲课，实践     |  LHT |   |
 |   6      | 智能计算：生物基础 | 讲课，实践      |  WX |  |
