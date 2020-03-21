@@ -2,15 +2,16 @@
 
 Bring Your Laptop to Class. 
 
-| 时间段   |  内容     |  讲课 / 实践     |   分工  |   备注       |
-| :---     | :----:    |   :----:    |    :----:    |       ---: |
-|   0      | 课程签到     |  logistics   |     TA     |        |
-|   1      |  [回顾上节课](../WW5/WW5-stis-plan.md)，介绍本节课内容 |    讲课     |   CZ   |      |
-|   2      | TensorFlow and more |  讲课    |    CZ    |  实践       |
-|   3      |   |  实践    |         |         |
-|   4      | 程序实践 | 实践       |  CZ&TAs|  |
-|   5      | 学习小结.md 上交至[Study-Memo](../../Study-Memo)   |  实践    |     CZ&TAs     |   最迟一周之后     |
-|   6      | 课程小结，[展望下一节课](../WW7/WW7-stis-plan.md)   |  实践    |     CZ&TAs     |      |
+| 时间段  |  内容     |  讲课 / 实践     |   分工  |   备注       |
+| :---    | :----:    |   :----:    |    :----:    |       ---: |
+|   0     | 课程签到     |  logistics   |     TA     |        |
+|   1     | [回顾上节课](../WW5/WW5-stis-plan.md)，介绍本节课内容 |    讲课     |   CZ   |      |
+|   2     | TensorFlow-basic |  讲课    |    CZ    |  实践       |
+|   3     | TensorFlow-Example：tensorflow_v2 |  讲课    |    CZ    |  实践       |
+|   4     | 智能计算：深度学习深入  | 讲课    |   CZ&TAs |         |
+|   5     | TensorFlow-more |  讲课       |  CZ&TAs |     |
+|   6     | 学习小结.md 上交至[Study-Memo](../../Study-Memo)   |  实践    |     CZ&TAs     |   最迟一周之后     |
+|   7     | 课程小结，[展望下一节课](../WW7/WW7-stis-plan.md)   |  讲解    |     CZ&TAs     |      |
 
 
 
