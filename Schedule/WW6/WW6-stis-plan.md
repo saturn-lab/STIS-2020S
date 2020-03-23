@@ -9,8 +9,9 @@ Bring Your Laptop to Class.
 |   2     | TensorFlow-basic |  讲课    |    CZ    |  实践       |
 |   3     | TensorFlow-Example：tensorflow_v2 |  讲课    |    WX    |  实践       |
 |   4     | 智能计算：深度学习深入  | 讲课    |   CZ&TAs |         |
-|   5     | TensorFlow-more |  讲课       |  CZ&TAs |     |
-|   6     | 作业回顾1 |  讲课       |  LHT |     |
+|   4     | 自动微分  | 实践    |   CZ&TAs |         |
+|   5     | TensorFlow-more |  讲课   |  GM  |  WHY  |
+|   6     | 作业回顾1 |  讲课       |  LHT |  10min   |
 |   7     | 学习小结.md 上交至[Study-Memo](../../Study-Memo)   |  实践    |     CZ&TAs     |   最迟一周之后     |
 |   8     | 课程小结，[展望下一节课](../WW7/WW7-stis-plan.md)   |  讲解    |     CZ&TAs     |      |
 
