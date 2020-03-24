@@ -6,6 +6,8 @@ Bring Your Laptop to Class.
 | :---     | :----:    |   :----:    |    :----:    |       ---: |
 |   0      | 课程签到     |  logistics   |     TA     |        |
 |   1      |  [回顾上节课](../WW6/WW6-stis-plan.md)，介绍本节课内容 |    讲课     |   CZ   |      |
+|   2     | 自动微分  | 实践    |   CZ&TAs |         |
+|   2     | TensorFlow-more |  讲课   |  GM  |  WHY  |
 |   2      | CNN  |  讲课    |    CZ    |  实践       |
 |   3      | CNN实验  |  实践    |         |         |
 |   3      | RNN  |  讲课    |         |         |
