@@ -1,0 +1,90 @@
+# 学习日志
+
+**姓名：阿璐思 学号：2018011492**
+
+***
+
+**计算基础：**
+
+* 计算的基本概念和相关历史人物回顾
+* 阿隆索·邱奇、阿兰·图灵、哈斯凯尔·布鲁克斯·柯里、克劳德·香侬
+
+**布尔电路：**
+
+* 算法和函数的概念
+* 计算工具的发展
+  * 世界上第一台计算机
+  * 现代的超级计算机
+* 将算法层面的结构转化为逻辑门间的关系
+* 各种逻辑门的介绍
+  * 与门、或门、非门
+  * 与非门、或非门
+  * 与或非门、异或门
+  * 利用与非门可组合实现任意逻辑门的功能
+* 利用程序实现逻辑电路的结构
+* 逻辑门的物理实现以及相关应用
+  * 利用电子实现逻辑门
+  * 利用水压实现逻辑门
+  * 意在体现不是只有利用电子才能实现逻辑门，利用其他物理条件也可以实现
+
+***
+
+**兴趣作业：**
+
+1.def ALLEQ1(a,b,c,d):
+
+  na = NAND(a,a)
+
+  nb = NAND(b,b)
+
+  nc = NAND(c,c)
+
+  nd = NAND(d,d)
+
+  u = AND(AND(AND(AND(na,nb),AND(na,nc)),AND(AND(na,nd),AND(nb,nc))),AND(AND(nb,nd),AND(nc,nd)))
+
+  v = AND(AND(AND(AND(a,b),AND(a,c)),AND(AND(a,d),AND(b,c))),AND(AND(b,d),AND(c,d)))
+
+  return OR(u,v)
+
+***
+
+2.def ALLEQ(a,b,c,d,e):
+
+  na = NAND(a,a)
+
+  nb = NAND(b,b)
+
+  nc = NAND(c,c)
+
+  nd = NAND(d,d)
+
+  ne = NAND(e,e)
+
+  u = AND( AND( AND(AND(na,nb),AND(na,nc)) ,AND(AND(na,nd),AND(na,ne))),
+
+   AND( AND(AND( AND(nb,nc),AND(nb,nd) ),AND( AND(nb,ne),AND(nc,nd) )) , AND(nd,ne)) )
+
+  v = AND( AND( AND(AND(a,b),AND(a,c)) ,AND(AND(a,d),AND(a,e))),
+
+   AND( AND(AND( AND(b,c),AND(b,d) ),AND( AND(b,e),AND(c,d) )) , AND(d,e)) )
+
+  return OR(u,v)
+
+***
+
+3.def SELECT(a,b,c):
+
+  na = NAND(a,a)
+
+  u = AND(a,b)
+
+  v = AND(na,c)
+
+  return OR(u,v)
+
+***
+
+**总结：**
+
+​	本周的学习内容主要与数字电路中学习过的各种逻辑门相关，同时也补充了解了一些关于计算机的发展历史和对计算机发展作出过重大贡献的科学家，是一次对布尔电路的基础内容的一次回顾学习。
