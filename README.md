@@ -1,8 +1,8 @@
 # STIS-2020S
 
-Smart Things and Intelligent Systems, Spring 2020.  
+智能硬件与智能系统
 
-Bring Your Laptop to Class. 
+Smart Things and Intelligent Systems, Spring 2020.  
 
 ## 教师与助教
 
@@ -26,6 +26,8 @@ TAs: Haotian Liu, Xu Wang
 - Git(Github), Markdown
 
 ## Notice:
+
+Bring Your Laptop to Class. 
 
 This course is targeted to general education in a sense, and appropriate for students with programming skills with one or more language.
 
