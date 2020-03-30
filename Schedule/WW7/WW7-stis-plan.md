@@ -9,7 +9,7 @@ Bring Your Laptop to Class.
 |   2      | TensorFlow-more |  讲课   |  GM  |  WHY  |
 |   2      | Automatic Differential 自动微分  | 讲课    |   LHT |         |
 |   2      | CNN  |  讲课    |    CZ    |  实践       |
-|   3      | CNN实验  |  实践    |         |         |
+|   3      | CNN实验  |  实践    |  WX       |         |
 |   3      | RNN  |  讲课    |         |         |
 |   4      | RNN实验 | 实践       |  CZ&TAs|  |
 |   5      | 学习小结.md 上交至[Study-Memo](../../Study-Memo)   |  实践    |     CZ&TAs     |   最迟一周之后     |
