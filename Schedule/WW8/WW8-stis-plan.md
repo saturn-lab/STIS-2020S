@@ -8,7 +8,7 @@ Bring Your Laptop to Class.
 |   1    | [回顾上节课](../WW7/WW7-stis-plan.md)，介绍本节课内容 |    讲课     |   CZ   |      |
 |   2    | RNN |  讲课    |    CZ    |  实践       |
 |   3    | 自动微分: Automatic Differential   | 讲课    |   LHT |         |
-|   4    | ASR |  讲课    |   |    |
+|   4    | ASR |  讲课    |  CZ  |    |
 |   5    | 学习小结.md 上交至[Study-Memo](../../Study-Memo)   |  实践    |     CZ&TAs     |   最迟一周之后     |
 |   6    | 课程小结，[展望下一节课](../WW9/WW9-stis-plan.md)   |  实践    |     CZ&TAs     |      |
 
