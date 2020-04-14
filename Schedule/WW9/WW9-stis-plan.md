@@ -6,8 +6,8 @@ Bring Your Laptop to Class.
 | :---   | :----:    |   :----:    |    :----:    |    ---: |
 |   0    | 课程签到     |  logistics   |     TA     |        |
 |   1    | [回顾上节课](../WW8/WW8-stis-plan.md)，介绍本节课内容 |    讲课     |   CZ   |      |
-|   2    | ASR 原理与技术  |  讲课    |    CZ    |     20 min    |
-|   4    | Python获取语音(pyAudio)    |   实践    |   WHY    |         |
+|   2    | ASR 原理与技术  |  讲课    |    CZ    |   20 min  |
+|   4    | Python获取语音(pyAudio)    |   实践    |   WHY    |  5 min  |
 |   5    | ASR 课程项目介绍 |  实践   |    LHT    |     10 min    |
 |   6    | 智能硬件Arduino入门 | 讲课    |  阿  |  25 min  | 
 |   7    | TensorFlow-lite |  讲课   |   WX/zhang  |  25 min    |
