@@ -4,7 +4,7 @@
 
 # 声控智能实践
 
-（1）语音指令录音：录音文件 audioPlot；
+（1）语音指令录音：[语音指令](voice_directive24.md)录音文件 audioPlot；
 
 audioPlot项目：https://github.com/saturn-lab/audioPlot
 
