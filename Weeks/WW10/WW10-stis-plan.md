@@ -5,7 +5,7 @@ Bring Your Laptop to Class.
 |  时间段  |  内容     |  讲课 / 实践     |   分工  |   备注       |
 | :---    | :----:    |   :----:    |    :----:    |       ---: |
 |   0     | 课程签到     |  logistics   |     TA     |        |
-|   1     | [回顾上节课](../../Schedule/WW9/WW9-stis-plan.md)，介绍本节课内容 |    讲课     |   CZ   |      |
+|   1     | [回顾上节课](../../Schedule/WW9/WW9-stis-plan.md)，介绍[本节课内容](Project-AudioRecg.md) |    讲课     |   CZ   |      |
 |   2     | [audioPlot](https://github.com/saturn-lab/audioPlot), [audioNet](https://github.com/saturn-lab/audioNet) 演示  |   讲课   |  LHT |  25 min  |
 |   3     | [androidAudioRecg](https://github.com/saturn-lab/androidAudioRecg)演示  |   讲课   |  WHY |  25 min  |
 |   4     | TensorFlow-lite |  讲课   |   WX  |  45 min    |
