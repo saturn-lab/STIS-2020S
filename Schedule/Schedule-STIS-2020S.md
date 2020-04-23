@@ -11,7 +11,7 @@
 | 第6周  | 2020-03-24 | [2020春-智能硬件-第六次课-教学计划](../Schedule/WW6/WW6-stis-plan.md) | 深度学习2/TensorFlow进阶   |      |
 | 第7周  | 2020-03-31 | [2020春-智能硬件-第七次课-教学计划](../Schedule/WW7/WW7-stis-plan.md) | 卷积/循环网络/TensorFlow-more    |      |
 | 第8周  | 2020-04-07 | [2020春-智能硬件-第八次课-教学计划](../Schedule/WW8/WW8-stis-plan.md) | 自动微分/tensorflow-cnn-rnn   |      |
-| 第9周  | 2020-04-14 | [2020春-智能硬件-第九次课-教学计划](../Schedule/WW9/WW9-stis-plan.md) | 语音识别/智能硬件：arduino   |      |
+| 第9周  | 2020-04-14 | [2020春-智能硬件-第九次课-教学计划](../Schedule/WW9/WW9-stis-plan.md) | 语音识别/智能硬件：Arduino   |      |
 | 第10周 | 2020-04-21 | [2020春-智能硬件-第十次课-教学计划](../Weeks/WW10/WW10-stis-plan.md)  | 声控智能实践/TensorFlow-Lite  |      |
 | 第11周 | 2020-04-28 | [2020春-智能硬件-第十一次课-教学计划](../Weeks/WW11/WW11-stis-plan.md) | 计算机视觉1/智能硬件：树莓派 |      |
 | 第12周 | 2020-05-05 | [2020春-智能硬件-第十二次课-教学计划](../Weeks/WW12/WW12-stis-plan.md) | 五一节放假    |      |
