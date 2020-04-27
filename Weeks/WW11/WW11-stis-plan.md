@@ -8,8 +8,10 @@ Bring Your Laptop to Class.
 |   1      | [回顾上节课](../WW10/WW10-stis-plan.md)，介绍本节课内容 |    讲课     |   CZ   |      |
 |   2      | 计算机视觉，CV-Intro |  讲课    |    CZ    |     5 min    |
 |   3      | 计算机视觉实践   |  讲课    |   WHY      |      10 min   |
-|   3      | [OpenCV，FaceDetect](https://github.com/saturn-lab/STIS-2020S/tree/master/IntelligentComputing/face-detect)  |  实践 |   WHY      |     5 min    |
-|   4      | 对象检测CV-OD-1 | 讲课   |  WX | 30 min  |
+|   3      | [OpenCV，FaceDetect](../../IntelligentComputing/face-detect)  |  实践 |   WHY      |     5 min    |
+|   4      | 对象检测CV-OD: Visual Task and Index | 讲课   |  CZ/WX |  15 min  |
+|   4      | 对象检测CV-OD: R-CNN and Faster | 讲课   |  WX |  15 min  |
+|   4      | 对象检测CV-OD: YOLO and SSD | 讲课   |  WX |  15 min  |
 |   5      | EasyHelmet |   讲解   |  LHT |  10 min |
 |   5      | 智能硬件：树莓派 |   介绍   |  ZSY |  25 min |
 |   5      | [Jetbot](https://github.com/NVIDIA-AI-IOT/jetbot/wiki)
