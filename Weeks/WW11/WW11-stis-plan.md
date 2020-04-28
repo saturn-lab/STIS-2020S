@@ -14,7 +14,7 @@ Bring Your Laptop to Class.
 |   4      | 对象检测CV-OD: YOLO and SSD | 讲课   |  WX |  5-8 min  |
 |   5      | 安全帽识别：EasyHelmet项目 |   讲解   |  LHT |  5-8 min |
 |   5      | 智能硬件：树莓派 |   介绍   |  ZSY |  20 min |
-|   5      | Jetson Nano, [Jetbot](https://github.com/NVIDIA-AI-IOT/jetbot/wiki) |  介绍    | CZ  |   10 min   |
+|   5      | [Jetson Nano](https://devblogs.nvidia.com/jetson-nano-ai-computing/), [Jetbot](https://github.com/NVIDIA-AI-IOT/jetbot/wiki) |  介绍    | CZ  |   10 min   |
 |   6      | 学习小结.md 上交至[Study-Memo](../../Study-Memo)   |  实践    |     CZ&TAs     |   最迟一周之后     |
 |   7      | 课程小结，[展望下一节课](../WW12/WW12-stis-plan.md)   |  实践  |     CZ&TAs     |      |
 
