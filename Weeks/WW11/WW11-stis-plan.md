@@ -9,7 +9,7 @@ Bring Your Laptop to Class.
 |   2      | 计算机视觉，CV-Intro |  讲课    |    CZ    |     5 min    |
 |   3      | 计算机视觉实践   |  讲课    |   WHY      |      10 min   |
 |   3      | [OpenCV，FaceDetect](../../IntelligentComputing/face-detect)  |  实践 |   WHY      |   5 min  |
-|   4      | 对象检测CV-OD: Visual Task and Index | 讲课   |  CZ/WX |  15 min  |
+|   4      | 对象检测CV-OD: Visual Task and Index | 讲课   |  CZ/WX |  10 min  |
 |   4      | 对象检测CV-OD: R-CNN and Faster | 讲课   |  WX |  15 min  |
 |   4      | 对象检测CV-OD: YOLO and SSD | 讲课   |  WX |  5-8 min  |
 |   5      | 安全帽识别：EasyHelmet项目 |   讲解   |  LHT |  5-8 min |
