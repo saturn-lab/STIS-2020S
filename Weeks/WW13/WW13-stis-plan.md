@@ -6,7 +6,7 @@ Bring Your Laptop to Class.
 | :---     | :----:    |   :----:    |    :----:    |       ---: |
 |   0      | 课程签到     |  logistics   |     TA     |        |
 |   1      | [回顾上节课](../WW11/WW11-stis-plan.md)，介绍本节课内容 |    讲课     |   CZ   |      |
-|   2      | 产业调研： |  讲课    |     |   min     |
+|   2      | 产业调研：treeOS |  讲课    |   林总  |  45 min     |
 |   3      | Ubuntu Linux, Jetbot |  实践    |     |  20 min     |
 |   4      | CV with pyTorch |  讲课    |    CZ/WX    |  30 min      |
 |   4      | 安全帽识别：EasyHelmet项目 |   讲解   |  LHT |  5-8 min |
