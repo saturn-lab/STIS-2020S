@@ -6,7 +6,7 @@ Bring Your Laptop to Class.
 | :---     | :----:    |   :----:    |    :----:    |       ---: |
 |   0      | 课程签到     |  logistics   |     TA     |        |
 |   1      | [回顾上节课](../WW15/WW15-stis-plan.md)，介绍本节课内容 |    讲课     |   CZ   |      |
-|   2      |   |  讲课    |    CZ&TAs    |  实践       |
+|   2      |   |  讲课    |    CZ&TAs    |         |
 |   3      | 课程项目  |  实践    |          |         |
 |   4      |   |  实践    |  CZ&TAs  |         |
 |   5      | 课程小结，[展望](../WW16/WW16-stis-plan.md)   |  实践    |     CZ&TAs     |      |
