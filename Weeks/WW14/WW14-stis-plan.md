@@ -6,8 +6,8 @@ Bring Your Laptop to Class.
 | :---     | :----:    |   :----:    |    :----:    |       ---: |
 |   0      | 课程签到     |  logistics   |     TA     |        |
 |   1      | [回顾上节课](../WW13/WW13-stis-plan.md)，介绍本节课内容 |    讲课     |   CZ   |      |
-|   2      |   |  讲课    |    CZ&TAs    |         |
-|   3      | 课程项目  |  实践    |          |         |
+|   2      | 智能机器人  |  讲课    |    GM    |         |
+|   3      | 课程项目发布  |  实践    |          |         |
 |   4      |   |  实践    |  CZ&TAs  |         |
 |   5      | 课程小结，[展望下一节课](../WW15/WW15-stis-plan.md)   |  实践    |     CZ&TAs     |      |
 |   6      | 学习小结.md 上交至[Study-Memo](../../Study-Memo)   |  实践    |     CZ&TAs     |   最迟一周之后     |
