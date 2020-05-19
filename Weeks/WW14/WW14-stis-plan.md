@@ -8,7 +8,7 @@ Bring Your Laptop to Class.
 |   1      | [回顾上节课](../WW13/WW13-stis-plan.md)，介绍本节课内容 |    讲课     |   CZ   |      |
 |   2      | 智能机器人原理  |  讲课    |    GM    |         |
 |   3      | 智能机器人实践  |  实践    |    GM    |         |
-|   4      | 课程项目发布  |  实践    |          |         |
+|   4      | 课程项目发布  |  实践    |   LHT/WX   |         |
 |   5      | 课程小结，[展望下一节课](../WW15/WW15-stis-plan.md)   |  实践    |     CZ&TAs     |      |
 |   6      | 学习小结.md 上交至[Study-Memo](../../Study-Memo)   |  实践    |     CZ&TAs     |   最迟一周之后     |
 
