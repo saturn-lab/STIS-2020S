@@ -8,10 +8,10 @@
 
 ## Jetbot 安全帽追踪 （挑战）
 
-## 安全帽检测模型训练 
+### 安全帽检测模型训练 
 参见 [easyHelmet](easyHelmet.md). (自训练模型（+），或提供模型)
 
-## Jetbot 安全帽检测
+### Jetbot 安全帽检测
 将easyHelmet部署到Jetbot上后，结合小车操控和安全帽检测，可以实现安全帽追踪的任务。
 
 # 时间安排
