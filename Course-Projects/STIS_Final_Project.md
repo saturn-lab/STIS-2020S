@@ -4,10 +4,10 @@
 # 机器人动作操控
 
 ## Jetbot 路线巡游 （基本）
-TODO
+参见 [小车巡线实验](小车巡线实验.md)
 
 ## Jetbot 安全帽检测 （中级）
-参见 [easyHelmet](./easyHelmet.md).
+参见 [easyHelmet](easyHelmet.md).
 
 ## Jetbot 安全帽追踪 （挑战）
 将easyHelmet部署到Jetbot上后，结合小车操控和安全帽检测，可以实现安全帽追踪的任务。
