@@ -1,0 +1,27 @@
+# Week 2
+
+对python有了一些基本的认识了解。
+
+属于过程式语言
+
+python 加. 代表是浮点数
+
+jupiterbook的安装使用方法 cell
+
+
+
+python space/tab缩进！
+
+list set 
+
+
+
+函数式编程
+
+matplotlib画图
+
+pandas 数据分析库
+
+
+
+learnpython3
