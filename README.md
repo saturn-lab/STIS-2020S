@@ -6,13 +6,13 @@ Smart Things and Intelligent Systems, Spring 2020.
 
 ## 课程内容
 
-[总体教学安排](Schedule/Schedule-STIS-2020S.md)
+[总体教学安排](Part1-Schedule/Schedule-STIS-2020S.md)
 
 ## 教师与助教
 
-Instructor: [Zhen Chen](http://www.icenter.tsinghua.edu.cn/faculty/chenzhen/) 
+Instructor: [Zhen Chen](http://www.icenter.tsinghua.edu.cn/info/1060/1298.htm) 
 
-co-Intrcutor: Ma, Zhang, Guo, Wang
+co-Intrcutor: Ma Xiaodong, Zhang Yisong, Guo Min, Gao Ying
 
 TAs: Haotian Liu, Xu Wang
 
