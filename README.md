@@ -6,7 +6,7 @@ Smart Things and Intelligent Systems, Spring 2020.
 
 ## 课程内容
 
-[总体教学安排](Part1-Schedule/Schedule-STIS-2020S.md)
+[总体教学安排](Schedule/Schedule-STIS-2020S.md)
 
 ## 教师与助教
 
@@ -37,5 +37,4 @@ Bring Your Laptop to Class.
 This course is targeted to general education in a sense, and appropriate for students with programming skills with one or more language.
 
 I would be very grateful if you post your feedback as an issue or pull request in this GitHub.
-
 
